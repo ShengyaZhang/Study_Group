@@ -1,0 +1,3 @@
+# Write your MySQL query statement below
+update salary set sex = if(sex = 'm','f','m')
+#if表达句里面，行x1，x2，x3， 1是T，返回2，1是F，返回3
